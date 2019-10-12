@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicSearchOptimizationAlgorithm/BasicSearchOptimizationAlgorithm.iml" filepath="$PROJECT_DIR$/BasicSearchOptimizationAlgorithm/BasicSearchOptimizationAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithm/GraphAlgorithm.iml" filepath="$PROJECT_DIR$/GraphAlgorithm/GraphAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimulatedAnnealing/SimulatedAnnealing.iml" filepath="$PROJECT_DIR$/SimulatedAnnealing/SimulatedAnnealing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabuSearchAlgorithm/TabuSearchAlgorithm.iml" filepath="$PROJECT_DIR$/TabuSearchAlgorithm/TabuSearchAlgorithm.iml" />
+    </modules>
+  </component>
+</project>
